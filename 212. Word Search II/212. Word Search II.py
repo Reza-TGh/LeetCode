@@ -70,4 +70,3 @@ def findWords(self, board, words):
                 if flag: break
         
     return results
-
